@@ -10,6 +10,7 @@
 
     Package name:
     com.example.trackingapp
+    6HPF+F7 Benin City
 
     SHA-1 certificate fingerprint:
     94:3B:7C:7A:82:53:53:F5:B8:90:3B:B4:9B:D4:6A:5F:13:73:BE:0F
@@ -20,5 +21,5 @@
     Once you have your key (it starts with "AIza"), replace the "google_maps_key"
     string in this file.
     -->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCUUcK5_7MIVXQnevAGDg4cUvh3AxeYVgg</string>
 </resources>
