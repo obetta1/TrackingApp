@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303114795038",
+    "project_id": "trackingapp-f5c2f",
+    "storage_bucket": "trackingapp-f5c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303114795038:android:332db5662b207e08de560f",
+        "android_client_info": {
+          "package_name": "com.example.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303114795038-u73mht7lrgq8p3sjekdggdj7nfq1a42i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4AC-jzCw9hQh9DC8lI6-cc2VdzGMh-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303114795038-u73mht7lrgq8p3sjekdggdj7nfq1a42i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
